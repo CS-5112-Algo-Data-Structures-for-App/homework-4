@@ -1,7 +1,6 @@
 import unittest
 from challenge import find_max_form
 
-
 class TestChallenge(unittest.TestCase):
   def test_correctness_public_a1(self):
     """Public test """
